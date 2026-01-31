@@ -1,104 +1,104 @@
 {
-	"posts": [
-		{
-			"id": 0,
-			"content": [
-				{
-					"type": "text",
-					"data": "Рейтинг самых дружелюбных пород кошек",
-					"fontSize": 22,
-					"fontStyle": "bold",
-					"color": "#000000"
-				},
-				{
-					"type": "image",
-					"imageUrl": "https://www.petmd.com/sites/default/files/petmd-cat-happy-13.jpg"
-				},
-				{
-					"type": "text",
-					"data": "Альфа-Банк опубликовал рейтинг самых дружелюбных пород кошек. Они не оставят вас без внимания и ласки",
-					"fontSize": 16,
-					"fontStyle": "italic",
-					"color": "#757575"
-				},
-				{
-					"type": "button",
-					"buttonText": "Читать рейтинг",
-					"fontSize": 16,
-					"fontStyle": "regular",
-					"buttonColor": "#AAAAAA",
-					"textColor": "#000000"
-				}
-			]
-		},
-		{
-			"id": 1,
-			"content": [
-				{
-					"type": "text",
-					"data": "Винодельня из Северского района повысила производительность на 20%",
-					"fontSize": 22,
-					"fontStyle": "bold",
-					"color": "#000000"
-				},
-				{
-					"type": "text",
-					"data": "30.01.2026 14:34",
-					"fontSize": 16,
-					"fontStyle": "italic",
-					"color": "#757575"
-				},
-				{
-					"type": "image",
-					"imageUrl": "https://gelpriboy.ru/wp-content/uploads/2026/01/image_29_01_26_10_44_2.jpeg"
-				},
-				{
-					"type": "text",
-					"data": "Команда предприятия из Северского района подвела итоги реализации краевого проекта «Бережливый регион». Работа была нацелена на совершенствование процесса оформления винодельческой продукции.",
-					"fontSize": 16,
-					"fontStyle": "regular",
-					"color": "#757575"
-				},
-				{
-					"type": "button",
-					"buttonText": "Читать новость",
-					"fontSize": 16,
-					"fontStyle": "regular",
-					"buttonColor": "#AAAAAA",
-					"textColor": "#000000"
-				}
-			]
-		},
-		{
-			"id": 2,
-			"content": [
-				{
-					"type": "text",
-					"data": "Цифровой рубль: названы плюсы и минусы новой валюты",
-					"fontSize": 22,
-					"fontStyle": "bold",
-					"color": "#000000"
-				},
-				{
-					"type": "image",
-					"imageUrl": "https://www.sberbank.ru/images/5954/1699349322151.jpg"
-				},
-				{
-					"type": "text",
-					"data": "На пути цифрового рубля лежат неосведомленность населения и слабая инфраструктура",
-					"fontSize": 16,
-					"fontStyle": "regular",
-					"color": "#757575"
-				},
-				{
-					"type": "button",
-					"buttonText": "Читать новость",
-					"fontSize": 16,
-					"fontStyle": "regular",
-					"buttonColor": "#AAAAAA",
-					"textColor": "#000000"
-				}
-			]
-		}
-	]
+    "posts": [
+        {
+            "id": 0,
+            "content": [
+                {
+                    "type": "text",
+                    "data": "Рейтинг самых дружелюбных пород кошек",
+                    "fontSize": 22,
+                    "fontStyle": "bold",
+                    "color": "#000000"
+                },
+                {
+                    "type": "image",
+                    "imageUrl": "https://www.petmd.com/sites/default/files/petmd-cat-happy-13.jpg"
+                },
+                {
+                    "type": "text",
+                    "data": "Альфа-Банк опубликовал рейтинг самых дружелюбных пород кошек. Они не оставят вас без внимания и ласки",
+                    "fontSize": 16,
+                    "fontStyle": "italic",
+                    "color": "#757575"
+                },
+                {
+                    "type": "button",
+                    "buttonText": "Читать рейтинг",
+                    "fontSize": 16,
+                    "fontStyle": "regular",
+                    "buttonColor": "#AAAAAA",
+                    "textColor": "#000000"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "content": [
+                {
+                    "type": "text",
+                    "data": "Винодельня из Северского района повысила производительность на 20%",
+                    "fontSize": 22,
+                    "fontStyle": "bold",
+                    "color": "#000000"
+                },
+                {
+                    "type": "text",
+                    "data": "30.01.2026 14:34",
+                    "fontSize": 16,
+                    "fontStyle": "italic",
+                    "color": "#757575"
+                },
+                {
+                    "type": "image",
+                    "imageUrl": "https://gelpriboy.ru/wp-content/uploads/2026/01/image_29_01_26_10_44_2.jpeg"
+                },
+                {
+                    "type": "text",
+                    "data": "Команда предприятия из Северского района подвела итоги реализации краевого проекта «Бережливый регион». Работа была нацелена на совершенствование процесса оформления винодельческой продукции.",
+                    "fontSize": 16,
+                    "fontStyle": "regular",
+                    "color": "#757575"
+                },
+                {
+                    "type": "button",
+                    "buttonText": "Читать новость",
+                    "fontSize": 16,
+                    "fontStyle": "regular",
+                    "buttonColor": "#AAAAAA",
+                    "textColor": "#000000"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "content": [
+                {
+                    "type": "text",
+                    "data": "Цифровой рубль: названы плюсы и минусы новой валюты",
+                    "fontSize": 22,
+                    "fontStyle": "bold",
+                    "color": "#000000"
+                },
+                {
+                    "type": "image",
+                    "imageUrl": "https://www.sberbank.ru/images/5954/1699349322151.jpg"
+                },
+                {
+                    "type": "text",
+                    "data": "На пути цифрового рубля лежат неосведомленность населения и слабая инфраструктура",
+                    "fontSize": 16,
+                    "fontStyle": "regular",
+                    "color": "#757575"
+                },
+                {
+                    "type": "button",
+                    "buttonText": "Читать новость",
+                    "fontSize": 16,
+                    "fontStyle": "regular",
+                    "buttonColor": "#AAAAAA",
+                    "textColor": "#000000"
+                }
+            ]
+        }
+    ]
 }
